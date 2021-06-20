@@ -2,7 +2,6 @@
 
 ### General Information
 
-* **Name:** hello-world
 * **Version:** 0.0.1
 * **Language:** Java
 * **Type:** Maven
